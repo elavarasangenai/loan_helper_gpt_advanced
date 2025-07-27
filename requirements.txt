@@ -2,13 +2,15 @@
 flask
 flask-cors
 python-dotenv
-supabase_py
+supabase
 bcrypt
 openai
 langchain
 langchain-community
+langchain-openai
 faiss-cpu
 pypdf
 docx2txt
 werkzeug
+tiktoken
 shutilwhich
