@@ -1,0 +1,14 @@
+
+flask
+flask-cors
+python-dotenv
+supabase_py
+bcrypt
+openai
+langchain
+langchain-community
+faiss-cpu
+pypdf
+docx2txt
+werkzeug
+shutilwhich
